@@ -51,6 +51,7 @@ The dataset contains detailed loan-level attributes, including:
 Data was cleaned, validated, transformed, and structured for accurate KPI reporting and automated dashboard insights.
 
 5. Key Features and Insights
+   
 A. Business Problem
 
 Banks manage large volumes of loan applications and repayments across multiple customer segments. Raw datasets make it difficult to track:
